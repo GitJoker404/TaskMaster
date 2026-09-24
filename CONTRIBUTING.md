@@ -3,11 +3,24 @@
 Спасибо, что хотите улучшить наш проект!
 
 ## Как начать
-
+---
 1. Сделайте копию проекта (форк) на GitHub.
 2. Скачайте проект:
-   ```bash
-   git clone https://github.com/your-username/taskmaster.git
+  ``` git clone https://github.com/your-username/taskmaster.git```
+   
 3.Создайте новую ветку:
-  ```bash
-git checkout -b my-new-feature
+```git checkout -b my-new-feature```
+
+###Как отправить изменения
+---
+1.Сохраните изменения:
+```git commit -m "Добавлена новая кнопка"```
+2.Отправьте изменения:
+```git push origin my-new-feature```
+3.Создайте Pull Request на GitHub.
+
+####Правила для кода
+---
+*Пишите понятные комментарии.
+*Проверяйте, что код работает.
+*Используйте 2 пробела для отступов.
