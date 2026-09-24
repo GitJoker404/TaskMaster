@@ -23,7 +23,7 @@ TaskMaster - это программа для создания и отслежи
 Проект под MIT License
 ![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
 
-#####Контакты
+####Контакты
 ---
 ```Задавайте вопросы в Issues на GitHub```
 
