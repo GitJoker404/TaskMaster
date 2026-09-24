@@ -19,4 +19,5 @@ node index.js
 
 #### Лицензия
 ---
-TaskMaster использует
+TaskMaster использует:"https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md"
+
