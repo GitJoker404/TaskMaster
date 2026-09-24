@@ -1,4 +1,5 @@
 # TaskMaster
+![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
 
 Это приложение, чтобы записывать и следить за задачами. Простое и удобное!
 
