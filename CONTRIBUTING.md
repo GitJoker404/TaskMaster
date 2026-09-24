@@ -5,10 +5,12 @@
 ## Как начать
 ---
 1. Сделайте копию проекта (форк) на GitHub.
-2. Скачайте проект:
-  ``` git clone https://github.com/your-username/taskmaster.git```
-   
+2. 
+3. Скачайте проект:
+![project](https://github.com/your-username/taskmaster.git)
+
 3.Создайте новую ветку:
+
 ```git checkout -b my-new-feature```
 
 ###Как отправить изменения
