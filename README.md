@@ -10,4 +10,13 @@
    ```bash
    git clone https://github.com/your-username/taskmaster.git
 2. Установите нужные библиотеки:
- npm install   
+ npm install
+
+##Как использовать
+
+Запустите программу:
+node index.js
+
+##Лицензия
+
+TaskMaster использует
