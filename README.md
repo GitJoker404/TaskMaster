@@ -1,5 +1,4 @@
 # TaskMaster
-![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
 
 Это приложение, чтобы записывать и следить за задачами. Простое и удобное!
 
@@ -15,11 +14,11 @@
    npm install
 
 ### Как использовать
- ```bash
+---
 Запустите программу:
-node index.js
+```node index.j```
 
 #### Лицензия
- ```bash
-https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md
+![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
+
 
