@@ -20,5 +20,5 @@ node index.js
 
 #### Лицензия
  ```bash
-TaskMaster использует:![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
+![LICENSE](https://github.com/GitJoker404/TaskMaster/blob/main/LICENSE.md)
 
