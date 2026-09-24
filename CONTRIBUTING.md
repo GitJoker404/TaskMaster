@@ -14,9 +14,13 @@
 ###Как отправить изменения
 ---
 1.Сохраните изменения:
-```git commit -m "Добавлена новая кнопка"```
+
+  ```git commit -m "Добавлена новая кнопка"```
+
 2.Отправьте изменения:
-```git push origin my-new-feature```
+
+  ```git push origin my-new-feature```
+
 3.Создайте Pull Request на GitHub.
 
 ####Правила для кода
